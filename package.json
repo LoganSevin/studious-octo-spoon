@@ -1,0 +1,14 @@
+{
+  "name": "ready-to-go-website",
+  "version": "1.0.0",
+  "description": "A minimal responsive static website starter",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 5000 -c-1",
+    "start": "npx http-server -p 5000 -c-1"
+  },
+  "keywords": ["website","static","starter"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
